@@ -1,0 +1,22 @@
+.gradle
+/build/
+
+*.iml
+*.ipr
+*.iws
+
+out/
+run/
+
+#eclipse stuff
+/.settings/
+.project
+.classpath
+.idea/workspace.xml
+.idea/sonarlint
+builder.bat
+.idea/
+.gradle/
+
+# mac
+.DS_Store
